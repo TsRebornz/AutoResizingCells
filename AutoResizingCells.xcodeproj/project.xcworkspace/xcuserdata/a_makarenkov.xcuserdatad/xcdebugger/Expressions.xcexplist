@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TableViewController.viewWillLayoutSubviews():TableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tableView.contentSize.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TableViewController.tableView(_:cellForRowAt:):TableViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "self.tableView.contentSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
